@@ -70,3 +70,7 @@ I've written a lot here about my philosophies but a fair amount of my job is ada
 ---
 
 Reference: A list of other Manager READMEs https://svnk.github.io/manager-READMEs/
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
